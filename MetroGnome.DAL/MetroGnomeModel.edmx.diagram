@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2007/06/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="70adfccfa1a54994b5dfadec9d370a91" Name="Diagram1" >
+        <EntityTypeShape EntityType="MetroGnomeModel.Job" Width="1.5" PointX="0.625" PointY="0.5" />
+        <EntityTypeShape EntityType="MetroGnomeModel.Schedule" Width="1.5" PointX="3.5" PointY="0.5" />
+        <EntityTypeShape EntityType="MetroGnomeModel.Tenant" Width="1.5" PointX="6" PointY="0.5" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
